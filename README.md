@@ -2,5 +2,5 @@
 Testing for students
 
 # Installation 
-* * npm install blabla
-* * import blablabla
+*  npm install blabla
+* import blablabla
